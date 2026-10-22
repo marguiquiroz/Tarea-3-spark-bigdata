@@ -1,0 +1,6 @@
+pyspark
+pandas<3
+openpyxl
+matplotlib
+pyarrow
+psutil
